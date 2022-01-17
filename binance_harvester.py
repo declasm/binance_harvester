@@ -1,7 +1,5 @@
 # Run like this:
-# conda activate crypto_bot
-# cd C:\Users\decla\OneDrive\coding\bot_code
-# python binance_harvester.py -P 7
+# python binance_harvester.py -T 7
 
 import websocket, json, pprint
 from sqlite3 import connect
