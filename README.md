@@ -17,6 +17,12 @@ Timestamp,Open,High,Low,Close,Volume,macd,macd1226,macd_diff,macd_diff1020,macd_
 
 ## Dependencies
 
+Included as requirements.txt
+```bash
+pip install -r requirements.txt
+```
+
+
 ```python
 import websocket, json, pprint
 from sqlite3 import connect
