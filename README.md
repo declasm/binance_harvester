@@ -21,7 +21,9 @@ Included as requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+If you have trouble installing any of the dependencies try using Python 3.8+ and setting up a new environment in Anaconda.
 
+Installing TA-lib can be a pain in Windows so take a look at this guide that someone else put together on the subject https://blog.quantinsti.com/install-ta-lib-python/
 
 ```python
 import websocket, json, pprint
